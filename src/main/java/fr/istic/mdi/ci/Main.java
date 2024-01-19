@@ -14,6 +14,10 @@ public class Main {
      * @param args Les arguments de la ligne de commande (non utilisés dans cet exemple).
      */
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        System.out.println("Hello world");
+
     }
+
 }
+
